@@ -10,4 +10,5 @@ Requires a library to be installed for operation:
 as well as the mpv media player:
 
 `sudo apt update`
+
 `sudo apt install mpv`
